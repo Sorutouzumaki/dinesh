@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Set your Telegram bot token here
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "6931961527:AAHmMHBDgmmsy9CuV80x7qtiAdRsfJTadHs"
 updater = Updater(token=TOKEN, use_context=True)
 dispatcher = updater.dispatcher
 
